@@ -1,1 +1,288 @@
-{"cam":{"boyEkli":{"18":{"ab":{"price":138.37,"stock":"standart"},"bb":{"price":115.31,"stock":"nonstandart"}},"28":{"ab":{"price":204.99,"stock":"standart"},"bb":{"price":170.37,"stock":"nonstandart"}},"40":{"ab":{"price":301.63,"stock":"nonstandart"},"bb":{"price":251.36,"stock":"nonstandart"}}},"boyEksiz":{"18":{"ab":{"price":159.13,"stock":"standart"},"bb":{"price":132.6,"stock":"standart"}},"28":{"ab":{"price":235.74,"stock":"standart"},"bb":{"price":196.45,"stock":"standart"}},"40":{"ab":{"price":346.88,"stock":"standart"},"bb":{"price":289.06,"stock":"standart"}}}},"ladin":{"boyEkli":{"18":{"ab":{"price":134.99,"stock":"standart"},"bb":{"price":112.49,"stock":"standart"}},"28":{"ab":{"price":199.98,"stock":"standart"},"bb":{"price":166.65,"stock":"standart"}},"40":{"ab":{"price":294.26,"stock":"nonstandart"},"bb":{"price":245.22,"stock":"nonstandart"}}},"boyEksiz":{"18":{"ab":{"price":134.67,"stock":"standart"},"bb":{"price":117.11,"stock":"standart"}},"28":{"ab":{"price":209.49,"stock":"standart"},"bb":{"price":182.17,"stock":"nonstandart"}},"30":{"bb":{"price":195.18,"stock":"standart"}},"40":{"ab":{"price":308.25,"stock":"nonstandart"},"bb":{"price":268.04,"stock":"nonstandart"}}}},"kayin":{"boyEkli":{"18":{"ab":{"price":173.08,"stock":"standart"},"bb":{"price":144.23,"stock":"standart"}},"28":{"ab":{"price":256.42,"stock":"standart"},"bb":{"price":213.68,"stock":"standart"}},"40":{"ab":{"price":373.63,"stock":"nonstandart"},"bb":{"price":311.36,"stock":"nonstandart"}}}},"iroko":{"boyEkli":{"18":{"ab":{"price":363.66,"stock":"standart"},"bb":{"price":303.05,"stock":"standart"}},"28":{"ab":{"price":538.76,"stock":"standart"},"bb":{"price":448.97,"stock":"standart"}},"40":{"ab":{"price":785.05,"stock":"nonstandart"},"bb":{"price":654.21,"stock":"nonstandart"}}}},"kestane":{"boyEkli":{"18":{"ab":{"price":179.05,"stock":"standart"},"bb":{"price":149.21,"stock":"standart"}},"28":{"ab":{"price":265.26,"stock":"standart"},"bb":{"price":221.05,"stock":"standart"}},"40":{"ab":{"price":386.53,"stock":"nonstandart"},"bb":{"price":322.11,"stock":"nonstandart"}}}},"mese":{"boyEkli":{"18":{"ab":{"price":314.31,"stock":"standart"},"bb":{"price":178.59,"stock":"standart"}},"28":{"ab":{"price":317.5,"stock":"standart"},"bb":{"price":264.58,"stock":"standart"}},"40":{"ab":{"price":462.64,"stock":"nonstandart"},"bb":{"price":385.54,"stock":"nonstandart"}}}}}
+{
+    "cam": {
+        "boyEkli": {
+            "18": {
+                "ab": {
+                    "price": 138.37,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 115.31,
+                    "stock": "nonstandart"
+                }
+            },
+            "28": {
+                "ab": {
+                    "price": 204.99,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 170.37,
+                    "stock": "nonstandart"
+                }
+            },
+            "40": {
+                "ab": {
+                    "price": 301.63,
+                    "stock": "nonstandart"
+                },
+                "bb": {
+                    "price": 251.36,
+                    "stock": "nonstandart"
+                }
+            }
+        },
+        "boyEksiz": {
+            "18": {
+                "ab": {
+                    "price": 159.13,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 132.6,
+                    "stock": "standart"
+                }
+            },
+            "28": {
+                "ab": {
+                    "price": 235.74,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 196.45,
+                    "stock": "standart"
+                }
+            },
+            "40": {
+                "ab": {
+                    "price": 346.88,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 289.06,
+                    "stock": "standart"
+                }
+            }
+        },
+        "imgAB": "/images/pannels/cam-ab.jpg",
+        "imgBB": "/images/pannels/cam-bb.jpg"
+    },
+    "ladin": {
+        "boyEkli": {
+            "18": {
+                "ab": {
+                    "price": 134.99,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 112.49,
+                    "stock": "standart"
+                }
+            },
+            "28": {
+                "ab": {
+                    "price": 199.98,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 166.65,
+                    "stock": "standart"
+                }
+            },
+            "40": {
+                "ab": {
+                    "price": 294.26,
+                    "stock": "nonstandart"
+                },
+                "bb": {
+                    "price": 245.22,
+                    "stock": "nonstandart"
+                }
+            }
+        },
+        "boyEksiz": {
+            "18": {
+                "ab": {
+                    "price": 134.67,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 117.11,
+                    "stock": "standart"
+                }
+            },
+            "28": {
+                "ab": {
+                    "price": 209.49,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 182.17,
+                    "stock": "nonstandart"
+                }
+            },
+            "30": {
+                "bb": {
+                    "price": 195.18,
+                    "stock": "standart"
+                }
+            },
+            "40": {
+                "ab": {
+                    "price": 308.25,
+                    "stock": "nonstandart"
+                },
+                "bb": {
+                    "price": 268.04,
+                    "stock": "nonstandart"
+                }
+            }
+        },
+        "imgAB": "/images/pannels/ladin-ab.jpg",
+        "imgBB": "/images/pannels/ladin-bb.jpg"
+    },
+    "kayin": {
+        "boyEkli": {
+            "18": {
+                "ab": {
+                    "price": 173.08,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 144.23,
+                    "stock": "standart"
+                }
+            },
+            "28": {
+                "ab": {
+                    "price": 256.42,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 213.68,
+                    "stock": "standart"
+                }
+            },
+            "40": {
+                "ab": {
+                    "price": 373.63,
+                    "stock": "nonstandart"
+                },
+                "bb": {
+                    "price": 311.36,
+                    "stock": "nonstandart"
+                }
+            }
+        },
+        "imgAB": "/images/pannels/kayin-ab.jpg",
+        "imgBB": "/images/pannels/kayin-bb.jpg"
+    },
+    "iroko": {
+        "boyEkli": {
+            "18": {
+                "ab": {
+                    "price": 363.66,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 303.05,
+                    "stock": "standart"
+                }
+            },
+            "28": {
+                "ab": {
+                    "price": 538.76,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 448.97,
+                    "stock": "standart"
+                }
+            },
+            "40": {
+                "ab": {
+                    "price": 785.05,
+                    "stock": "nonstandart"
+                },
+                "bb": {
+                    "price": 654.21,
+                    "stock": "nonstandart"
+                }
+            }
+        },
+        "imgAB": "/images/pannels/iroko-ab.jpg"
+
+    },
+    "kestane": {
+        "boyEkli": {
+            "18": {
+                "ab": {
+                    "price": 179.05,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 149.21,
+                    "stock": "standart"
+                }
+            },
+            "28": {
+                "ab": {
+                    "price": 265.26,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 221.05,
+                    "stock": "standart"
+                }
+            },
+            "40": {
+                "ab": {
+                    "price": 386.53,
+                    "stock": "nonstandart"
+                },
+                "bb": {
+                    "price": 322.11,
+                    "stock": "nonstandart"
+                }
+            }
+        },
+        "imgAB": "/images/pannels/kestane-ab.jpg",
+        "imgBB": "/images/pannels/kestane-bb.jpg"
+    },
+    "mese": {
+        "boyEkli": {
+            "18": {
+                "ab": {
+                    "price": 314.31,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 178.59,
+                    "stock": "standart"
+                }
+            },
+            "28": {
+                "ab": {
+                    "price": 317.5,
+                    "stock": "standart"
+                },
+                "bb": {
+                    "price": 264.58,
+                    "stock": "standart"
+                }
+            },
+            "40": {
+                "ab": {
+                    "price": 462.64,
+                    "stock": "nonstandart"
+                },
+                "bb": {
+                    "price": 385.54,
+                    "stock": "nonstandart"
+                }
+            }
+        },
+        "imgAB": "/images/pannels/mese-ab.jpg",
+        "imgBB": "/images/pannels/mese-bb.jpg"
+    }
+}
