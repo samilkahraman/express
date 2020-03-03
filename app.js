@@ -7,8 +7,10 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var birdsRouter = require('./routes/birds');
-var sarpRouter = require('./routes/sarp');
+var jotformRouter = require('./routes/jotform');
 var fpRouter = require('./routes/fingerJointPannels');
+var priceRouter = require('./routes/priceLists');
+
 
 var app = express();
 const port = 3000
@@ -27,6 +29,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', fpRouter);
 app.use('/users', usersRouter);
 app.use('/birds', birdsRouter)
+app.use('/jotform', jotformRouter)
+app.use('/price' , priceRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));

@@ -1,0 +1,17 @@
+{
+  "companies": [
+    {
+      "name": "kahramanlar",
+      "id": 1001
+    },
+    {
+      "name": "gumusler",
+      "id": 1002
+    },
+    {
+      "name": "ozkaramete",
+      "id": 1003
+    },
+    { "name": "aluc", "id": 1004 }
+  ]
+}
